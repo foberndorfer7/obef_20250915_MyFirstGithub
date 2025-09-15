@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Version 1");
+Console.WriteLine("Version1");
