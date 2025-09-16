@@ -9,3 +9,4 @@ Console.WriteLine("test");
 Console.WriteLine("apfel #1");
 Console.WriteLine("apfel #2");
 Console.WriteLine("banane #1");
+Console.WriteLine("banane #2");
