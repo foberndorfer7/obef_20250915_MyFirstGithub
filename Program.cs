@@ -10,3 +10,5 @@ Console.WriteLine("apfel #1");
 Console.WriteLine("apfel #2");
 Console.WriteLine("banane #1");
 Console.WriteLine("banane #2");
+
+Console.WriteLine("jetzt_funktioniert es");
